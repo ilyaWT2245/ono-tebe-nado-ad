@@ -36,3 +36,5 @@ img {
 button {
   font: inherit;
 }
+
+main { display: flex; flex-direction: column; gap: 120px; }
